@@ -9,7 +9,7 @@ Sou um **Analista de Dados Júnior** focado em transformar informações em inte
 - **Python:** Lógica de programação e automação de tarefas.
 
 ### 📊 Meus Projetos:
-* [Análise de Vendas Power BI](https://github.com/Igmeloss/analise-vendas-powerbi): Dashboard focado em desempenho e rentabilidade.
+* [Análise de Vendas Power BI](https://github.com/Igmeloss/dashboard-vendas): Dashboard focado em desempenho e rentabilidade.
 
 ### 📫 Vamos nos conectar?
 * **LinkedIn:** [linkedin.com/in/igmeloss](https://www.linkedin.com/in/igmeloss)
