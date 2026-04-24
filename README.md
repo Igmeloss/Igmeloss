@@ -12,5 +12,5 @@ Sou um **Analista de Dados Júnior** focado em transformar informações em inte
 * [Análise de Vendas Power BI](https://github.com/Igmeloss/dashboard-vendas): Dashboard focado em desempenho e rentabilidade.
 
 ### 📫 Vamos nos conectar?
-* **LinkedIn:** [linkedin.com/in/igmeloss](www.linkedin.com/in/igormeloss)
+* **LinkedIn:** [linkedin.com/in/igmeloss](https://www.linkedin.com/in/igormeloss/)
 * **Localização:** São Paulo, Brasil 🇧🇷
