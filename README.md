@@ -1,6 +1,6 @@
 # Olá, eu sou o Igor Leonardo 👋
 
-Sou um **Analista de Dados** focado em transformar informações em inteligência para a tomada de decisão. Busco constantemente evoluir minhas capacidades analíticas para gerar relatórios claros e eficientes.
+Sou um **Analista de Dados Júnior** focado em transformar informações em inteligência para a tomada de decisão. Busco constantemente evoluir minhas capacidades analíticas para gerar relatórios claros e eficientes.
 
 ### 🛠️ O que eu utilizo:
 - **SQL:** Extração e manipulação de bases de dados.
