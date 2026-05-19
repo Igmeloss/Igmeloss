@@ -1,9 +1,8 @@
 # Olá, eu sou o Igor Leonardo
 
-Analista de Dados Júnior em transição de carreira, com background em 
-logística operacional e liderança de equipe. Foco em transformar dados 
-em decisões com contexto real de negócio.
-
+Analista de Dados Júnior com background em logística operacional e 
+liderança de equipe. Foco em transformar dados em decisões com 
+contexto real de negócio.
 ---
 
 ## O que eu utilizo
