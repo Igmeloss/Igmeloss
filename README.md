@@ -1,16 +1,35 @@
-# Olá, eu sou o Igor Leonardo 👋
+# Olá, eu sou o Igor Leonardo
 
-Sou um **Analista de Dados Júnior** focado em transformar informações em inteligência para a tomada de decisão. Busco constantemente evoluir minhas capacidades analíticas para gerar relatórios claros e eficientes.
+Analista de Dados Júnior em transição de carreira, com background em 
+logística operacional e liderança de equipe. Foco em transformar dados 
+em decisões com contexto real de negócio.
 
-### 🛠️ O que eu utilizo:
-- **SQL:** Extração e manipulação de bases de dados.
-- **Power BI:** Criação de dashboards interativos e visuais.
-- **Excel:** Análise de dados e fórmulas avançadas.
-- **Python:** Lógica de programação e automação de tarefas.
+---
 
-### 📊 Meus Projetos:
-* [Análise de Vendas Power BI](https://github.com/Igmeloss/dashboard-vendas): Dashboard focado em desempenho e rentabilidade.
+## O que eu utilizo
 
-### 📫 Vamos nos conectar?
-* **LinkedIn:** [linkedin.com/in/igmeloss](https://www.linkedin.com/in/igormeloss/)
-* **Localização:** São Paulo, Brasil 🇧🇷
+- **SQL:** Extração, manipulação e análise de bases de dados
+- **Power BI:** Modelagem de dados, DAX e criação de dashboards interativos
+- **Python:** Lógica de programação e automação de tarefas
+- **Excel:** Análise de dados e fórmulas avançadas
+
+---
+
+## Projetos
+
+* [Dashboard de Performance — Dia das Mães](https://github.com/Igmeloss/dashboard-dia-das-maes): 
+Dashboard no Power BI com análise de campanha sazonal de varejo — 
+modelagem de dados, DAX e storytelling com dados.
+
+* [Dashboard de Vendas e Lucratividade](https://github.com/Igmeloss/dashboard-vendas): 
+Dashboard interativo com análise de vendas, lucratividade e principais KPIs do negócio.
+
+* [Análise de Lucratividade de Vendas — SQL](https://github.com/Igmeloss/analise-lucratividade-sql): 
+Análise end-to-end com 75 pedidos de vendas respondendo 6 perguntas estratégicas de negócio.
+
+---
+
+## Vamos nos conectar?
+
+* **LinkedIn:** [linkedin.com/in/igormeloss](https://www.linkedin.com/in/igormeloss/)
+* **Localização:** São Paulo, Brasil
